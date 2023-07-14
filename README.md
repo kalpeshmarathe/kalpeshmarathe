@@ -13,6 +13,6 @@
 ## 📫 How to Reach Me
 
 - [Email](mailto:1234kalpeshmj@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/kalpesh-marathe-351364242/))
-- [Personal Website](https://kalpeshmarathe.studio/))
+- [LinkedIn](https://www.linkedin.com/in/kalpesh-marathe-351364242/)
+- [Personal Website](https://kalpeshmarathe.studio/)
 
